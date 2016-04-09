@@ -1,8 +1,0 @@
-{
-  "name": "we-are-not-in-space",
-  "version": "0.0.1",
-  "dependencies": {
-    "phaser-official": "^2.4.3"
-  }
-}
-
